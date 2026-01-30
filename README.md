@@ -45,9 +45,6 @@ powerbi-dynamic-ecommerce-dashboard/
 ├── Dashboard/
 │ └── Ecommerce_Dashboard.pbix
 │
-├── Data/
-│ └── ecommerce_data.csv
-│
 ├── Documentation/
 │ └── process.md
 │
